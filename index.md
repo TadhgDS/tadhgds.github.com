@@ -9,15 +9,15 @@ published: true
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Plain text is plain text, this is how you link: [google](http://www.google.ie)
 
-## Update Author Attributes
+## BIG TEXT 
 
 In `_config.yml` remember to specify your own data:
     
     title : My Blog =)
     
-    author :
+    author : Tadhg Da Silva
       name : Name Lastname
       email : blah@email.test
       github : username
